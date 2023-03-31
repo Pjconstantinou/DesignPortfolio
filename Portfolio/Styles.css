@@ -1,0 +1,192 @@
+
+body {
+    position: relative;
+    background: rgba(186, 98, 255, 0.5);
+    max-width: 100%;
+    min-width: 50%;
+    overflow-x: hidden;
+    margin: 1.5in;
+    font-family: Lato, sans-serif;
+}
+
+
+#homepic {
+    float: left;
+    max-width: 100%;
+    min-width: 75%;
+    height: auto;
+    margin: 15px 5px 5px 5px;
+    border: 5px;
+    padding: 5px;
+    border-radius: 25px;
+    
+}
+
+header {
+    float: left;
+    white-space: nowrap;
+    display: inline-block;
+    margin: auto;  
+   
+}
+
+
+
+nav {
+    padding:15px;
+    margin:1px;
+    border: 75px;
+    background-color: #BA62FF;
+    text-align: center;
+    border-radius: 10px;
+    width: 1194px;
+    height: 137px;
+    
+}
+
+/* link color changes */
+a {
+    color:white;
+    font-size: 30pt;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: #b5ead0;
+}
+
+/* make the right border of the graphic design nav to make seperators between nav item */
+.graphic-design-nav {
+    border-right:red;
+    width: 10%;
+
+}
+
+#Headshot {
+    border-radius: 132.5px;
+    width: 265px;
+    height: 274px;
+    left: 47px;
+    top: 1px;
+    position:relative;
+}
+
+#lilly {
+    position: absolute;
+    height: 250%;
+    left: 50px;
+    top: 800px;
+    border-radius: 22px;
+}
+
+#emerald {
+
+    position: absolute;
+    height: 175%;
+    left: 50px;
+    top: 293px;
+    border-radius: 22px;
+
+}
+
+#DoubleRiver {
+    position: absolute;
+    height: 175%;
+    left: 800px;
+    top: 293px;
+    border-radius: 22px;
+}
+
+#logo {
+    position: absolute;
+    height: 150%;
+    left: 35px;
+    top: 293px;
+    border-radius: 22px;
+
+}
+
+#mockup {
+    
+    position: absolute;
+    height: 150%;
+    left: 550px;
+    top: 293px;
+    border-radius: 22px;
+}
+
+#alaska {
+
+    position: absolute;
+    height: 250%;
+    left: 150px;
+    top: 850px;
+    border-radius: 22px;
+
+}
+
+#alaska2 {
+
+    position: absolute;
+    height: 250%;
+    left: 150px;
+    top: 1500px;
+    border-radius: 22px;
+    border-width: 20px;
+    border-color: black;
+
+}
+
+#cycles {
+
+    position: absolute;
+    width: 514px;
+    height: 464px;
+    left: 56px;
+    top: 259px;
+    border-radius: 12px;
+}
+
+#trail {
+
+    position: absolute;
+    width: 25%;
+    left: 750px;
+    top: 259px;
+    border-radius: 12px;
+    
+}
+
+.myNav {
+    background-color:#BA62FF;
+    width: 0px;
+
+  }
+  
+   .text {
+      padding-left: 1.25rem
+  }
+  
+  #nav {
+      margin-top: 1.25rem
+      
+  }
+  
+.list-group-horizontal {
+
+    list-style: none;
+
+}
+
+#PurpleImage {
+
+    left: 360px;
+    position: absolute;
+    width: 75%;
+    left: 295;
+    top: 59px;
+    border-radius: 12px;
+}
