@@ -1,0 +1,145 @@
+
+body {
+    position: relative;
+    background: rgba(186, 98, 255, 0.5);
+    max-width: 100%;
+    min-width: 50%;
+    overflow-x: hidden;
+    font-family: Lato, sans-serif;
+    padding-top: 5%;
+} 
+
+.homelink {
+    color: black;
+    font-family: Lato, sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-decoration: none;
+    text-align: left; 
+}
+
+.homelink:hover {
+    color: white;
+}
+
+/* styles for description on Photography Page */
+.caption {
+    background-color: rgba(186, 98, 255, .25);
+    border-radius: 5%;
+    margin: .25em;
+    padding: 1.35em;
+}
+
+
+
+#Headshot {
+    border-radius: 132.5px;
+    width: 265px;
+    height: 274px;
+    left: 47px;
+    top: 1px;
+    position:relative;
+}
+
+#lilly {
+    position: absolute;
+    height: 250%;
+    left: 50px;
+    top: 800px;
+    border-radius: 22px;
+}
+
+#emerald {
+
+    position: absolute;
+    height: 175%;
+    left: 50px;
+    top: 293px;
+    border-radius: 22px;
+
+}
+
+#DoubleRiver {
+    position: absolute;
+    height: 175%;
+    left: 800px;
+    top: 293px;
+    border-radius: 22px;
+}
+
+#logo {
+    position: absolute;
+    height: 150%;
+    left: 35px;
+    top: 293px;
+    border-radius: 22px;
+
+}
+
+#mockup {
+    
+    position: absolute;
+    height: 150%;
+    left: 550px;
+    top: 293px;
+    border-radius: 22px;
+}
+
+#alaska {
+
+    position: absolute;
+    height: 250%;
+    left: 150px;
+    top: 850px;
+    border-radius: 22px;
+
+}
+
+#alaska2 {
+
+    position: absolute;
+    height: 250%;
+    left: 150px;
+    top: 1500px;
+    border-radius: 22px;
+    border-width: 20px;
+    border-color: black;
+
+}
+
+#cycles {
+
+    position: absolute;
+    width: 514px;
+    height: 464px;
+    left: 56px;
+    top: 259px;
+    border-radius: 12px;
+}
+
+#trail {
+
+    position: absolute;
+    width: 25%;
+    left: 750px;
+    top: 259px;
+    border-radius: 12px;
+    
+}
+
+.myNav {
+    background-color:#BA62FF;
+    width: 0px;
+
+  }
+  
+
+#PurpleImage {
+
+    left: 360px;
+    position: absolute;
+    width: 75%;
+    left: 295;
+    top: 59px;
+    border-radius: 12px;
+}
